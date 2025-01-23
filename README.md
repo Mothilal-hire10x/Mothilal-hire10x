@@ -21,7 +21,7 @@
 mothilal044@gmail.com
 ```
 📸 Instagram:
-[Your Instagram Handle](https://www.instagram.com/mothilalzzh_sphinx_007?igsh=MXBydThxaWUyYzI2NQ==)
+[mothilalzzh_sphinx_007](https://www.instagram.com/mothilalzzh_sphinx_007?igsh=MXBydThxaWUyYzI2NQ==)
    💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mothilal-m-04803a227)
    😄 Pronouns
 
