@@ -17,11 +17,9 @@
 
 📫 How to Reach Me
 
-📩 Email: [mothilal044@gmail.com]
-
-💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mothilal-m-04803a227/)
-
-😄 Pronouns
+   📩 Email: [mothilal044@gmail.com]
+   💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mothilal-m-04803a227/)
+   😄 Pronouns
 
 He/Him
 ⚡ Fun Fact
