@@ -15,15 +15,15 @@
     Backend APIs for scalable and reliable systems.
     Innovative tech ideas that inspire learning and growth.
 
-📫 How to Reach Me <br>
+📫 How to Reach Me <br><br>
 📩 Email:
 ```
 mothilal044@gmail.com
 ```
 <br>
 📸 Instagram:
-[mothilalzzh_sphinx_007](https://www.instagram.com/mothilalzzh_sphinx_007?igsh=MXBydThxaWUyYzI2NQ==)
-   💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mothilal-m-04803a227)
+[mothilalzzh_sphinx_007](https://www.instagram.com/mothilalzzh_sphinx_007?igsh=MXBydThxaWUyYzI2NQ==) <br>
+   💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mothilal-m-04803a227) <br>
    😄 Pronouns
 
 He/Him
