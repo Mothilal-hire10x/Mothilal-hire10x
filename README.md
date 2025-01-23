@@ -18,9 +18,11 @@
 📫 How to Reach Me
 📩 Email:
 ```
-    mothilal044@gmail.com
+mothilal044@gmail.com
 ```
-   💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mothilal-m-04803a227/)
+📸 Instagram:
+[Your Instagram Handle](https://www.instagram.com/mothilalzzh_sphinx_007?igsh=MXBydThxaWUyYzI2NQ==)
+   💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mothilal-m-04803a227)
    😄 Pronouns
 
 He/Him
