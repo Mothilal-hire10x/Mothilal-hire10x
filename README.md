@@ -18,7 +18,6 @@
 
 📩 Email: [mothilal044@gmail.com]
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mothilal-m-04803a227/)
-🐦 Twitter: Your Twitter Handle
 😄 Pronouns
 
 He/Him
