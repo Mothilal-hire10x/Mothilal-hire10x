@@ -17,10 +17,10 @@
 
 📫 How to Reach Me
 ```
-   📩 Email: [mothilal044@gmail.com]
+   📩 Email: [mothilal044@gmail.com]```
    💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mothilal-m-04803a227/)
    😄 Pronouns
-```
+
 He/Him
 ⚡ Fun Fact
 💬 I can talk about tech trends and AI innovations for hours! When I'm not coding, you'll find me exploring new cuisines or diving into a good book.
