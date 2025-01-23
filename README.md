@@ -15,7 +15,7 @@
     Backend APIs for scalable and reliable systems.
     Innovative tech ideas that inspire learning and growth.
 
-📫 How to Reach Me /n
+📫 How to Reach Me <br>
 📩 Email:
 ```
 mothilal044@gmail.com
