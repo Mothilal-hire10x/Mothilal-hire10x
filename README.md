@@ -10,6 +10,7 @@
 💞️ Collaboration
 
 🤝 Open to collaborating on:
+
     Open-source projects that make a difference.
     Backend APIs for scalable and reliable systems.
     Innovative tech ideas that inspire learning and growth.
@@ -17,7 +18,9 @@
 📫 How to Reach Me
 
 📩 Email: [mothilal044@gmail.com]
+
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mothilal-m-04803a227/)
+
 😄 Pronouns
 
 He/Him
