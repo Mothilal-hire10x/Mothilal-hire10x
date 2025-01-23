@@ -1,4 +1,4 @@
-👋 Hi, I’m Mothilal!
+<b>👋 Hi, I’m Mothilal!</b>
 👀 About Me
 
 🔭 I’m a passionate software developer with a keen interest in backend development, API design, and cloud technologies.
@@ -9,21 +9,20 @@
 📚 Exploring advanced database optimizations and asynchronous programming.
 💞️ Collaboration
 
-🤝 Open to collaborating on:
+<b>🤝 Open to collaborating on:</b>
 
     Open-source projects that make a difference.
     Backend APIs for scalable and reliable systems.
     Innovative tech ideas that inspire learning and growth.
 
-📫 How to Reach Me <br><br>
+<b>📫 How to Reach Me </b><br><br>
 📩 Email:
 ```
 mothilal044@gmail.com
 ```
-<br>
-   📸 Instagram:[mothilalzzh_sphinx_007](https://www.instagram.com/mothilalzzh_sphinx_007?igsh=MXBydThxaWUyYzI2NQ==) <br>
-   💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mothilal-m-04803a227) <br>
-   😄 Pronouns
+   📸 Instagram: [mothilalzzh_sphinx_007](https://www.instagram.com/mothilalzzh_sphinx_007?igsh=MXBydThxaWUyYzI2NQ==) <br>
+   💼 LinkedIn: [Mothilal M](https://www.linkedin.com/in/mothilal-m-04803a227) <br>
+   😄 Pronouns <br>
 
 He/Him
 ⚡ Fun Fact
