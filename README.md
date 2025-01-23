@@ -17,7 +17,7 @@
 📫 How to Reach Me
 
 📩 Email: [mothilal044@gmail.com]
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mothilal-m-04803a227/)
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mothilal-m-04803a227/)
 🐦 Twitter: Your Twitter Handle
 😄 Pronouns
 
