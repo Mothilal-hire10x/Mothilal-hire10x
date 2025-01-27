@@ -27,3 +27,5 @@ mothilal044@gmail.com
 ⚡ Fun Fact
 💬 I can talk about tech trends and AI innovations for hours! When I'm not coding, you'll find me exploring new cuisines or diving into a good book.
 
+
+[![Mothilal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mothilal-hire10x&theme=dracula)](https://github.com/Mothilal-hire10x/github-readme-activity-graph)
