@@ -27,11 +27,3 @@ mothilal044@gmail.com
 ⚡ Fun Fact
 💬 I can talk about tech trends and AI innovations for hours! When I'm not coding, you'll find me exploring new cuisines or diving into a good book.
 
-
-
-Here is some text in **default color**.
-
-Here is some text in <font color="red">red</font>.
-
-Here is some text in <span style="color:blue;">blue</span>.
-
