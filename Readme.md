@@ -29,3 +29,6 @@ mothilal044@gmail.com
 
 
 [![Mothilal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mothilal-hire10x&theme=dracula)](https://github.com/Mothilal-hire10x/github-readme-activity-graph)
+
+[![Mothilal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mothilal-hire10x&theme=github&hide_border=true&area=true&bg_color=#f0f0f0)](https://github.com/Mothilal-hire10x/github-readme-activity-graph)
+
