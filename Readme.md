@@ -9,12 +9,6 @@
 📚 Exploring advanced database optimizations and asynchronous programming.
 💞️ Collaboration
 
-<b>🤝 Open to collaborating on:</b>
-
-    Open-source projects that make a difference.
-    Backend APIs for scalable and reliable systems.
-    Innovative tech ideas that inspire learning and growth.
-
 <b>📫 How to Reach Me </b><br>
 📩 Email:
 ```
