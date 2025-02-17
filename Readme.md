@@ -38,5 +38,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mothilal-hire10x&theme=dracula)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mothilal-hire10x&theme=dracula&no-frame=true&margin-w=15&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)<br>
+
+
 
 
