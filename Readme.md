@@ -1,6 +1,6 @@
 <b>👋 Hi, I’m Mothilal!</b>
 
-<a href="https://app.daily.dev/mothilalm"><img src="https://github.com/Mothilal-hire10x/Mothilal-hire10x/blob/master/devcard.png" width="300" alt="Mothilal's Dev Card"/></a>
+<a href="https://app.daily.dev/mothilalm"><img src="https://api.daily.dev/devcards/v2/co5xqg55rFvz8ulMWL6TR.png?r=onu" width="356" alt="Mothilal m's Dev Card"/></a> <br><br>
 👀 About Me
 
 🔭 I’m a passionate software developer with a keen interest in backend development, API design, and cloud technologies.
