@@ -1,4 +1,4 @@
-<b>👋 Hi, I’m Mothilal!</b>
+<!-- <b>👋 Hi, I’m Mothilal!</b> -->
 
 <a href="https://app.daily.dev/mothilal"><img src="https://api.daily.dev/devcards/v2/co5xqg55rFvz8ulMWL6TR.png?type=wide&r=49w" width="1200" alt="Mothilal M's Dev Card"/></a>
 👀 About Me
