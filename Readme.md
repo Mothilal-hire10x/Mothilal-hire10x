@@ -31,14 +31,6 @@
 
 ## 📊 GitHub Stats
 ![Mothilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mothilal-hire10x&show_icons=true&theme=dracula)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mothilal-hire10x&theme=dracula)  
-
-[![Mothilal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mothilal-hire10x&theme=dracula)](https://github.com/Mothilal-hire10x/github-readme-activity-graph)
-
----
-## 🔥 My Top Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-hire10x&repo=Mothilal-hire10x&theme=dracula)](https://github.com/Mothilal-hire10x/repo-name)
-
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mothilal-hire10x&theme=dracula)
