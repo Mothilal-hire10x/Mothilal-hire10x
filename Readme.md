@@ -9,17 +9,40 @@
 📚 Exploring advanced database optimizations and asynchronous programming.
 💞️ Collaboration
 
-<b>📫 How to Reach Me </b><br>
-📩 Email:
-```
-mothilal044@gmail.com
-```
-   📸 Instagram: [@mothilalzzh_sphinx_007](https://www.instagram.com/mothilalzzh_sphinx_007?igsh=MXBydThxaWUyYzI2NQ==)<br>
-   💼 LinkedIn: [Mothilal M](https://www.linkedin.com/in/mothilal-m-04803a227) <br>
-   😄 Pronouns <br>
+## 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+## 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mothilal-m-04803a227)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mothilalzzh_sphinx_007)
+
+
 
 ⚡ Fun Fact
 💬 I can talk about tech trends and AI innovations for hours! When I'm not coding, you'll find me exploring new cuisines or diving into a good book.
 
 
 [![Mothilal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mothilal-hire10x&theme=dracula)](https://github.com/Mothilal-hire10x/github-readme-activity-graph)
+
+
+## 📊 GitHub Stats
+![Mothilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mothilal-hire10x&show_icons=true&theme=dracula)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mothilal-hire10x&theme=dracula)  
+
+[![Mothilal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mothilal-hire10x&theme=dracula)](https://github.com/Mothilal-hire10x/github-readme-activity-graph)
+
+---
+## 🔥 My Top Repositories
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-hire10x&repo=Mothilal-hire10x&theme=dracula)](https://github.com/Mothilal-hire10x/repo-name)
+
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mothilal-hire10x&theme=dracula)
+
+
+
+
