@@ -2,7 +2,7 @@
 
 [![autocomplete](https://codeium.com/badges/user/mothilal/autocomplete)](https://codeium.com/profile/mothilal)
 
-<a href="https://app.daily.dev/mothilal"><img src="https://api.daily.dev/devcards/v2/co5xqg55rFvz8ulMWL6TR.png?type=wide&r=49w" width="1200" alt="Mothilal M's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/mothilal"><img src="https://api.daily.dev/devcards/v2/co5xqg55rFvz8ulMWL6TR.png?type=wide&r=49w" width="1200" alt="Mothilal M's Dev Card"/></a> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mothilal-hire10x&theme=dracula&no-frame=true&margin-w=15&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
