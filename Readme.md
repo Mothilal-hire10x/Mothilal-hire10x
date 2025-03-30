@@ -28,7 +28,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mothilalzzh_sphinx_007)
 
 
-
 ⚡ Fun Fact
 💬 I can talk about tech trends and AI innovations for hours! When I'm not coding, you'll find me exploring new cuisines or diving into a good book.
 
@@ -42,10 +41,6 @@
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mothilal-hire10x&theme=dracula)
-
-
-
-
 
 
 
