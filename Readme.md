@@ -47,14 +47,6 @@
 [![Mothilal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mothilal-hire10x&theme=dracula)](https://github.com/Mothilal-hire10x/github-readme-activity-graph)
 
 
-## 📊 GitHub Stats
-![Mothilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mothilal-hire10x&show_icons=true&theme=dracula)  
-
-
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mothilal-hire10x&theme=dracula)
-
-
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mothilal-hire10x&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
