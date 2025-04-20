@@ -2,17 +2,7 @@
 
 [![autocomplete](https://codeium.com/badges/user/mothilal/autocomplete)](https://codeium.com/profile/mothilal)
 
-<center>
 
-# Made with 💜 by [Mothilal](https://mothilal.online)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
- 
-</center>
 
 <!-- <a href="https://app.daily.dev/mothilal"><img src="https://api.daily.dev/devcards/v2/co5xqg55rFvz8ulMWL6TR.png?type=wide&r=49w" width="1200" alt="Mothilal M's Dev Card"/></a> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mothilal-hire10x&theme=dracula&no-frame=true&margin-w=15&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
@@ -52,6 +42,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mothilal-hire10x&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mothilal-hire10x&theme=radical" alt="GitHub Streak" width="400"/>
 </div>
+
+---
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+
 
 ---
 
