@@ -7,6 +7,11 @@
 <!-- <a href="https://app.daily.dev/mothilal"><img src="https://api.daily.dev/devcards/v2/co5xqg55rFvz8ulMWL6TR.png?type=wide&r=49w" width="1200" alt="Mothilal M's Dev Card"/></a> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mothilal-hire10x&theme=dracula&no-frame=true&margin-w=15&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 
 👀 About Me
 
@@ -46,12 +51,4 @@
 ---
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
-
-
----
 
