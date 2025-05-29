@@ -1,7 +1,5 @@
 <!-- <b>👋 Hi, I’m Mothilal!</b> -->
 
-<h1>Jack...</h1>
-
 [![autocomplete](https://codeium.com/badges/user/mothilal/autocomplete)](https://codeium.com/profile/mothilal)
 
 
