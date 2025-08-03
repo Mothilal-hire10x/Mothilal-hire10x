@@ -128,10 +128,12 @@
 <div align="center">
   <!--
 ### 🐍 Watch the Snake Eat My Contributions!
-![Snake animation](https://github.com/Mothilal-hire10x/Mothilal-hire10x/blob/output/github-contribution-grid-snake.svg)  -->
+![Snake animation](https://github.com/Mothilal-hire10x/Mothilal-hire10x/blob/output/github-contribution-grid-snake.svg)  
 
 ### 🎵 Currently Jamming To
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31qpzfkr6tt5lw4psxea66nt2jxa&count=1)](https://open.spotify.com/user/31qpzfkr6tt5lw4psxea66nt2jxa)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31qpzfkr6tt5lw4psxea66nt2jxa&count=1)](https://open.spotify.com/user/31qpzfkr6tt5lw4psxea66nt2jxa) 
+
+-->
 
 <!--https://open.spotify.com/user/31qpzfkr6tt5lw4psxea66nt2jxa?si=e0a883ffeec94f0e -->
 ### 💭 Random Dev Quote
