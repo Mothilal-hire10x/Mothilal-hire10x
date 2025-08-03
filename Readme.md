@@ -131,8 +131,8 @@
 ![Snake animation](https://github.com/Mothilal-hire10x/Mothilal-hire10x/blob/output/github-contribution-grid-snake.svg)
 
 ### 🎵 Currently Jamming To
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31qpzfkr6tt5lw4psxea66nt2jxa&count=1)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+<!--https://open.spotify.com/user/31qpzfkr6tt5lw4psxea66nt2jxa?si=e0a883ffeec94f0e -->
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
