@@ -145,8 +145,8 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-hire10x&repo=YOUR_REPO_NAME&theme=neon)](https://github.com/Mothilal-hire10x/YOUR_REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-hire10x&repo=YOUR_REPO_NAME_2&theme=neon)](https://github.com/Mothilal-hire10x/YOUR_REPO_NAME_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-hire10x&repo=L3MON-1&theme=neon)](https://github.com/Mothilal-hire10x/L3MON-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-hire10x&repo=BackendFusion&theme=neon)](https://github.com/Mothilal-hire10x/BackendFusion)
 
 </div>
 
