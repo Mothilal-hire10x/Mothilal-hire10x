@@ -132,6 +132,7 @@
 
 ### 🎵 Currently Jamming To
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31qpzfkr6tt5lw4psxea66nt2jxa&count=1)](https://open.spotify.com/user/31qpzfkr6tt5lw4psxea66nt2jxa)
+
 <!--https://open.spotify.com/user/31qpzfkr6tt5lw4psxea66nt2jxa?si=e0a883ffeec94f0e -->
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
