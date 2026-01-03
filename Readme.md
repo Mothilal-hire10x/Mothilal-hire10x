@@ -1,11 +1,11 @@
 
 <a href="https://mothilal.xyz">
- <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Mothilal%20M&fontSize=80&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20%40%2010xscale.ai&descAlignY=55&descSize=25" width="100%">    
+ <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Mothilal%20M&fontSize=80&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20%40%2010XScale.ai&descAlignY=55&descSize=25" width="100%">    
 </a>
 
 <!-- <p align="center">
 <a href="https://github.com/Mothilal-hire10x">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F7FF&background=00000000&center=true&vCenter=true&width=650&height=70&lines=Hi+there%2C+I'm+Mothilal!+%F0%9F%91%8B;Software+Engineer+%40+10xscale.ai+%F0%9F%9A%80;Backend+Developer+%7C+Python+%7C+FastAPI+%E2%9A%A1;Cloud+Architect+%7C+GCP+Expert+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%92%BB;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F7FF&background=00000000&center=true&vCenter=true&width=650&height=70&lines=Hi+there%2C+I'm+Mothilal!+%F0%9F%91%8B;Software+Engineer+%40+10XScale.ai+%F0%9F%9A%80;Backend+Developer+%7C+Python+%7C+FastAPI+%E2%9A%A1;Cloud+Architect+%7C+GCP+Expert+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%92%BB;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 </p> -->
 
@@ -56,14 +56,14 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Mothilal M"
-        self.role = "Software Engineer @ 10xscale.ai"
+        self.role = "Software Engineer @ 10XScale.ai"
         self.location = "Dharmapuri, Tamil Nadu, India 🇮🇳"
         self.education = "B.Sc Computer Science (2021-2024)"
         self.university = "Government Arts College, Coimbatore"
         
     def current_work(self):
         return {
-            "company": "10xscale.ai",
+            "company": "10XScale.ai",
             "position": "Software Engineer",
             "location": "Hyderabad",
             "focus": ["Backend Systems", "Cloud Infrastructure", 
