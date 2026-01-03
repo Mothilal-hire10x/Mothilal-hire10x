@@ -146,12 +146,9 @@ me = SoftwareEngineer()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mothilal-hire10x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00F7FF&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mothilal-hire10x&layout=compact&langs_count=8&theme=tokyonight&border_color=00F7FF&bg_color=0D1117&title_color=00F7FF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mothilal-hire10x&theme=tokyonight&border=00F7FF&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mothilal-hire10x&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"><br>
+    <!-- <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Mothilal-hire10x&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Mothilal's%20Most%20Used%20Languages&title_color=00F7FF&text_color=70a5fd"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Mothilal-hire10x&show_icons=true&line_height=30&rank_icon=github&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=70a5fd"><br> -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mothilal-hire10x&theme=tokyonight&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mothilal-hire10x&theme=tokyonight&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mothilal-hire10x&theme=tokyonight&utcOffset=+5" width="33%"><br>
 </div>
 
 <div align="center">
@@ -196,19 +193,6 @@ Comprehensive platform for memory, attention & cognitive flexibility training
 
 Streamlining educational institution admission processes
 
----
-
-<p align="center">
-  
-[![BackendFusion Card](https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-hire10x&repo=BackendFusion&theme=tokyonight&border_color=00F7FF&bg_color=0D1117)](https://github.com/Mothilal-hire10x/BackendFusion)
-[![L3MON Card](https://github-readme-stats.vercel.app/api/pin/?username=Mothilal-hire10x&repo=L3MON-1&theme=tokyonight&border_color=00F7FF&bg_color=0D1117)](https://github.com/Mothilal-hire10x/L3MON-1)
-
-</p>
-
-<a href="https://github.com/Mothilal-hire10x?tab=repositories">
-  <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-00F7FF?style=for-the-badge&logoColor=white&logo=repo"/>
-</a>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -225,7 +209,8 @@ Streamlining educational institution admission processes
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/Mothilal-hire10x/Mothilal-hire10x/output/github-contribution-grid-snake-dark.svg)
+<!-- ![GitHub Snake Light](https://github.com/Mothilal-hire10x/Mothilal-hire10x/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
+![GitHub Snake Dark](https://github.com/Mothilal-hire10x/Mothilal-hire10x/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
