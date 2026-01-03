@@ -16,7 +16,7 @@
     <a href="https://www.instagram.com/mothilalzzh_sphinx_007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
@@ -42,10 +42,12 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
-</div>
+</div> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+
+<!--
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -92,8 +94,8 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
+<!-- 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
 
 <div align="center">
@@ -139,16 +141,27 @@ me = SoftwareEngineer()
 ![Project Management](https://img.shields.io/badge/Project_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Adaptability](https://img.shields.io/badge/Adaptability-FF4088?style=for-the-badge&logo=atom&logoColor=white)
 
+</div> -->
+<!-- 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
+
+<div align="center">
+  
+<!-- ![GitHub Snake Light](https://github.com/Mothilal-hire10x/Mothilal-hire10x/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
+![GitHub Snake Dark](https://github.com/Mothilal-hire10x/Mothilal-hire10x/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## 📊 GitHub Analytics
 
 <div align="center">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mothilal-hire10x&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"><br>
     <!-- <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Mothilal-hire10x&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Mothilal's%20Most%20Used%20Languages&title_color=00F7FF&text_color=70a5fd"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Mothilal-hire10x&show_icons=true&line_height=30&rank_icon=github&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=70a5fd"><br> -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mothilal-hire10x&theme=tokyonight&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mothilal-hire10x&theme=tokyonight&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mothilal-hire10x&theme=tokyonight&utcOffset=+5" width="33%"><br>
+    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mothilal-hire10x&theme=tokyonight&exclude={}" width="33%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mothilal-hire10x&theme=tokyonight&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mothilal-hire10x&theme=tokyonight&utcOffset=+5" width="33%"><br> -->
 </div>
 
 <div align="center">
@@ -170,10 +183,10 @@ me = SoftwareEngineer()
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mothilal-hire10x&theme=tokyonight&no-frame=true&margin-w=15&margin-h=10&column=7&no-bg=true)](https://github.com/Mothilal-hire10x)
 
 </div>
+<!-- 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🔥 Featured Projects
+<!-- ## 🔥 Featured Projects
 
 <div align="center">
 
@@ -193,28 +206,18 @@ Comprehensive platform for memory, attention & cognitive flexibility training
 
 Streamlining educational institution admission processes
 
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎯 2025-2026 Goals
+<!-- ## 🎯 2025-2026 Goals
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=800&lines=✨+Scale+Microservices+on+GCP;🚀+Master+Advanced+LangGraph+%26+AI+Tools;📈+Build+Enterprise-Grade+ETL+Pipelines;🎯+Optimize+Database+Performance+%26+Scaling;🌟+Contribute+to+AI+Open+Source;💼+Lead+Cross-Functional+Tech+Teams" alt="Goals" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
-## 📈 Contribution Snake
-
-<div align="center">
-  
-<!-- ![GitHub Snake Light](https://github.com/Mothilal-hire10x/Mothilal-hire10x/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
-![GitHub Snake Dark](https://github.com/Mothilal-hire10x/Mothilal-hire10x/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💭 Random Dev Quote
 
@@ -224,9 +227,9 @@ Streamlining educational institution admission processes
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
-## 📫 Let's Connect
+<!-- ## 📫 Let's Connect
 
 <div align="center">
 
@@ -235,7 +238,7 @@ Streamlining educational institution admission processes
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mothilal044@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mothilalzzh_sphinx_007)
 
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
