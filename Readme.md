@@ -3,11 +3,11 @@
  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Mothilal%20M&fontSize=80&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20%40%2010xscale.ai&descAlignY=55&descSize=25" width="100%">    
 </a>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/Mothilal-hire10x">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F7FF&background=00000000&center=true&vCenter=true&width=650&height=70&lines=Hi+there%2C+I'm+Mothilal!+%F0%9F%91%8B;Software+Engineer+%40+10xscale.ai+%F0%9F%9A%80;Backend+Developer+%7C+Python+%7C+FastAPI+%E2%9A%A1;Cloud+Architect+%7C+GCP+Expert+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%92%BB;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
-</p>
+</p> -->
 
 <p align="center">
     <a href="https://www.linkedin.com/in/mothilal-m-04803a227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -208,7 +208,7 @@ Streamlining educational institution admission processes
 
 </div> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
 <!-- ## 🎯 2025-2026 Goals
 
@@ -219,13 +219,13 @@ Streamlining educational institution admission processes
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
 
-## 💭 Random Dev Quote
+<!-- ## 💭 Random Dev Quote
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+</div> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
@@ -240,7 +240,7 @@ Streamlining educational institution admission processes
 
 </div> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
@@ -250,7 +250,7 @@ Streamlining educational institution admission processes
   <img src="https://komarev.com/ghpvc/?username=Mothilal-hire10x&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
-</div>
+</div> -->
 
 ---
 
