@@ -258,12 +258,5 @@ Streamlining educational institution admission processes
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-[Video Title](https://youtu.be/d88V78UDUlo)
-
-
-[![Video Title](https://img.youtube.com/vi/d88V78UDUlo/0.jpg)](https://youtu.be/d88V78UDUlo)
-
-
-[![Video Title](https://img.youtube.com/vi/d88V78UDUlo/maxresdefault.jpg)](https://youtu.be/d88V78UDUlo)
 
 
