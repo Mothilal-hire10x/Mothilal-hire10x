@@ -145,14 +145,8 @@ me = SoftwareEngineer()
 <!-- 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
-<div align="center">
 
 <!-- ![GitHub Snake Light](https://github.com/Mothilal-M/Mothilal-M/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
-![GitHub Snake Dark](https://github.com/Mothilal-M/Mothilal-M/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
 ## 📊 GitHub Analytics
@@ -170,19 +164,6 @@ me = SoftwareEngineer()
 
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mothilal-M&theme=tokyonight" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## � GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mothilal-M&theme=tokyonight&no-frame=true&margin-w=15&margin-h=10&column=7&no-bg=true)](https://github.com/Mothilal-M)
-
-</div>
 <!-- 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
