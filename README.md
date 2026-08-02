@@ -9,12 +9,12 @@
 </a>
 </p> -->
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://www.linkedin.com/in/mothilal-m-04803a227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://mothilal.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
     <a href="mailto:mothilal044@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://www.instagram.com/mothilalzzh_sphinx_007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p> -->
+</p>
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -44,6 +44,7 @@
 
 </div> -->
 
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
 <!--
@@ -144,8 +145,14 @@ me = SoftwareEngineer()
 <!-- 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
+<div align="center">
 
 <!-- ![GitHub Snake Light](https://github.com/Mothilal-M/Mothilal-M/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
+![GitHub Snake Dark](https://github.com/Mothilal-M/Mothilal-M/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
 ## 📊 GitHub Analytics
@@ -157,12 +164,25 @@ me = SoftwareEngineer()
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mothilal-M&theme=tokyonight&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mothilal-M&theme=tokyonight&utcOffset=+5" width="33%"><br> -->
 </div>
 
-<!-- <div align="center">
+<div align="center">
 
 [![Mothilal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mothilal-M&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=false)](https://github.com/Mothilal-M)
 
-</div> -->
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mothilal-M&theme=tokyonight" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## � GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mothilal-M&theme=tokyonight&no-frame=true&margin-w=15&margin-h=10&column=7&no-bg=true)](https://github.com/Mothilal-M)
+
+</div>
 <!-- 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
@@ -234,7 +254,6 @@ Streamlining educational institution admission processes
 
 ---
 <!-- <iframe src="https://github.com/sponsors/Mothilal-M/button" title="Sponsor Mothilal-M" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe> -->
-<!-- <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div> -->
-
+</div>
