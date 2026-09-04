@@ -1,0 +1,5 @@
+# Only the two static generators (prep_photo.py, make_ascii_svg.py,
+# make_wordmark_svg.py) need these. fetch_contributions.py and
+# render_heatmap_svg.py are stdlib-only, so the daily workflow installs nothing.
+Pillow>=10.4
+numpy>=1.26

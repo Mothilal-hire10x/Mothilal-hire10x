@@ -1,7 +1,31 @@
 <!-- <iframe src="https://github.com/sponsors/Mothilal-M/card" title="Sponsor Mothilal-M" height="225" width="600" style="border: 0;"></iframe> -->
+<!-- previous waving header, kept for easy restore:
 <a href="https://mothilal.dev">
- <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Mothilal%20M&fontSize=80&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20%40%2010XScale.ai&descAlignY=55&descSize=25" width="100%">    
+ <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Mothilal%20M&fontSize=80&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20%40%2010XScale.ai&descAlignY=55&descSize=25" width="100%">
 </a>
+-->
+
+<div align="center">
+
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3D ASCII
+     wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     widths are picked so both panels land at the same height (385px).
+     portrait: python scripts/prep_photo.py && python scripts/make_ascii_svg.py
+     wordmark: python scripts/make_wordmark_svg.py --mode rock
+     how it all works: docs/profile-art.md -->
+
+<h3><code>mothilal@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./assets/ascii-portrait.svg" width="370" alt="Mothilal M — ASCII portrait" /></td>
+<td valign="top"><img src="./assets/wordmark.svg" width="490" alt="MOTHILAL — 3D ASCII wordmark" /></td>
+</tr>
+</table>
+
+<p><b>Software Engineer @ 10XScale.ai · Backend · Cloud · AI</b></p>
+
+</div>
 
 <!-- <p align="center">
 <a href="https://github.com/Mothilal-M">
@@ -147,6 +171,19 @@ me = SoftwareEngineer()
 
 <div align="center">
 
+<!-- animated contribution graph: real data, cells pop in one by one
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>mothilal@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./assets/contrib-heatmap.svg" width="860" alt="Mothilal's GitHub contribution graph — auto-refreshed daily" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
 <!-- ![GitHub Snake Light](https://github.com/Mothilal-M/Mothilal-M/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
 ![GitHub Snake Dark](https://github.com/Mothilal-M/Mothilal-M/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
@@ -176,7 +213,7 @@ me = SoftwareEngineer()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## � GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
