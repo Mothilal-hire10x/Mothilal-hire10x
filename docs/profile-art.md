@@ -138,7 +138,7 @@ eye, mane and base as internal detail, where the solid `♞` becomes one blob.
 ```bash
 WORDMARK_TEXT="♘" WORDMARK_FONT="C:/Windows/Fonts/seguisym.ttf" \
 WORDMARK_COLS=32 WORDMARK_CELL_W=9 WORDMARK_DEPTH=0.22 WORDMARK_ROW_MARGIN=1 \
-WORDMARK_TITLE='~$ ./knight.sh --spin' \
+WORDMARK_TITLE='mothilal@github: ~$ ./knight.sh --spin' \
 python scripts/make_wordmark_svg.py --mode spin --frames 32 --out assets/knight.svg
 ```
 
