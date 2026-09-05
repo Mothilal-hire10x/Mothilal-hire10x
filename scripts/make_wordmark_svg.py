@@ -33,6 +33,9 @@ from PIL import Image, ImageDraw, ImageFont
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, "..")
+import sys  # noqa: E402
+sys.path.insert(0, HERE)
+from crt import crt_overlay  # noqa: E402
 
 USER = "mothilal"
 
@@ -64,6 +67,9 @@ FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 0))   # face within a .tt
 # width and the extrusion walls barely register. stacking doubles the letter
 # height and the panel lands at the same height as the portrait beside it.
 TEXT = os.environ.get("WORDMARK_TEXT", "MOTHI\\nLAL").replace("\\n", "\n")
+# the same engine renders any glyph a font can draw -- e.g. WORDMARK_TEXT="♞"
+# with a symbol font gives the spinning chess knight (assets/knight.svg).
+TITLE = os.environ.get("WORDMARK_TITLE", f"{USER}@github: ~$ ./wordmark.sh --3d")
 
 MASK_H = 300           # glyph raster height in mask px (drives voxel density)
 TRACKING = float(os.environ.get("WORDMARK_TRACKING", 0.16))
@@ -259,7 +265,7 @@ def emit(frames, mode, out, dur, reveal):
     for i, dot in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
         p.append(f'<circle cx="{PAD + i*15}" cy="{TITLEBAR_H/2}" r="4.5" fill="{dot}"/>')
     p.append(f'<text x="{canvas_w/2:.0f}" y="{TITLEBAR_H/2 + 4:.0f}" fill="{TITLE_TEXT}" '
-             f'font-size="11.5" text-anchor="middle">{USER}@github: ~$ ./wordmark.sh --3d</text>')
+             f'font-size="11.5" text-anchor="middle">{html.escape(TITLE)}</text>')
 
     def frame_g(rows, extra=""):
         out_rows = []
@@ -279,6 +285,7 @@ def emit(frames, mode, out, dur, reveal):
 
     if mode == "static":                      # frozen frame 0, for eyeballing a render
         p.append(frame_g(frames[0]))
+        p.append(crt_overlay(canvas_w, canvas_h, uid="wm"))
         p.append("</svg>")
         with open(out, "w", encoding="utf-8") as fh:
             fh.write("".join(p))
@@ -317,6 +324,7 @@ def emit(frames, mode, out, dur, reveal):
                     f'repeatCount="indefinite"/>')
             p.append(frame_g(rows, ' opacity="0"').replace("</g>", anim + "</g>"))
 
+    p.append(crt_overlay(canvas_w, canvas_h, uid="wm"))
     p.append("</svg>")
     svg = "".join(p)
     with open(out, "w", encoding="utf-8") as fh:

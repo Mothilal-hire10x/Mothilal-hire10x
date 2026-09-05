@@ -17,6 +17,9 @@ import os
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
+from crt import crt_overlay  # noqa: E402
+
 ROOT = os.path.join(HERE, "..")
 IN_PATH = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, "data", "contributions.json")
 OUT_PATH = sys.argv[2] if len(sys.argv) > 2 else os.path.join(ROOT, "assets", "contrib-heatmap.svg")
@@ -177,6 +180,7 @@ def render(data):
     parts.append(f'<text class="ft" x="{canvas_w - PAD}" y="{ly}" font-size="12" fill="{MUTED}" text-anchor="end">'
                  f'best day <tspan fill="{GOLD}" font-weight="700">{best["count"]}</tspan> on {best["date"]}</text>')
 
+    parts.append(crt_overlay(canvas_w, canvas_h, uid="hm"))
     parts.append("</svg>")
     return "".join(parts)
 

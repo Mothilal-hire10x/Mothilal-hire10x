@@ -25,6 +25,9 @@ from PIL import Image, ImageEnhance
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, "..")
+sys.path.insert(0, HERE)
+from crt import crt_overlay  # noqa: E402
+
 args = [a for a in sys.argv[1:] if not a.startswith("--")]
 PREVIEW = "--preview" in sys.argv
 STATIC = "--static" in sys.argv or bool(os.environ.get("STATIC"))
@@ -154,6 +157,7 @@ parts.append(f'<rect x="{PAD + status_w + 4:.0f}" y="{status_y-12:.1f}" width="8
              f'<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" '
              f'dur="1s" repeatCount="indefinite"/></rect>')
 
+parts.append(crt_overlay(CANVAS_W, CANVAS_H, uid="pt"))
 parts.append("</svg>")
 svg = "".join(parts)
 with open(OUT, "w", encoding="utf-8") as f:

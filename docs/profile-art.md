@@ -11,6 +11,11 @@ and CSS keyframe animations, which is all these need.
 | `assets/ascii-portrait.svg` | monochrome ASCII portrait that types itself in row by row | by hand, when the photo changes |
 | `assets/wordmark.svg` | `MOTHI / LAL` extruded into a 3D slab, rasterized to ASCII, wipes in then rocks | by hand, when the text or font changes |
 | `assets/contrib-heatmap.svg` | real contribution calendar, cells pop in along a diagonal, live stats footer | daily, by `.github/workflows/update-profile-art.yml` |
+| `assets/contrib-skyline.svg` | the same year as an isometric city, one tower per day, builds itself on load | daily, same workflow |
+| `assets/knight.svg` | the ♘ glyph extruded and spinning, beside the community chess board | by hand |
+
+Every panel also carries a CRT overlay (scanlines, vignette, a slow refresh
+band, a faint flicker) from `scripts/crt.py`.
 
 The idea (and the wordmark pipeline) comes from
 [AVIVASHISHTA29's profile](https://github.com/AVIVASHISHTA29); this repo
@@ -105,3 +110,53 @@ disables the animation.
 
 The workflow runs at ~06:17 UTC daily and commits only when the data changed.
 Trigger it by hand from the Actions tab (`profile art` -> Run workflow).
+
+## 4. Contribution skyline
+
+```bash
+python scripts/render_skyline_svg.py         # -> assets/contrib-skyline.svg
+```
+
+Same data as the heatmap, drawn as a city. Weeks run left to right and the
+seven weekdays recede up and to the right (an oblique projection, so the long
+axis stays horizontal and the panel stays short). Each day is a box with three
+faces: a lit top, GitHub's level color on the front, a darker right wall.
+Height is `sqrt(count / max)` so one huge day does not flatten the rest.
+
+Towers are painted back row first, then left to right, which is all the
+occlusion an oblique projection needs. Each tower is a `<g>` that grows from
+its own base (`transform-origin: 50% 100%; scaleY(0 -> 1)`) with a delay that
+sweeps left to right, so the city builds itself in about three seconds. Level-4
+days flash as they land.
+
+## 5. Spinning knight
+
+The wordmark engine will extrude anything a font can draw. The knight is the
+outline glyph `♘` (U+2658) from Segoe UI Symbol; the outline version keeps the
+eye, mane and base as internal detail, where the solid `♞` becomes one blob.
+
+```bash
+WORDMARK_TEXT="♘" WORDMARK_FONT="C:/Windows/Fonts/seguisym.ttf" \
+WORDMARK_COLS=32 WORDMARK_CELL_W=9 WORDMARK_DEPTH=0.22 WORDMARK_ROW_MARGIN=1 \
+WORDMARK_TITLE='~$ ./knight.sh --spin' \
+python scripts/make_wordmark_svg.py --mode spin --frames 32 --out assets/knight.svg
+```
+
+It lives inside the chess section template in `chess/play.py`, so it survives
+every move the bot plays.
+
+## 6. Chess by issues
+
+`chess/play.py` was already in the repo; the README just had no
+`<!--CHESS:START-->` / `<!--CHESS:END-->` markers for it to write into. Run
+`python chess/play.py bootstrap` once (needs `pip install chess`) to render a
+fresh game into the markers. After that the `chess` workflow handles every
+issue titled `chess|move|<uci>`.
+
+## 7. CRT overlay
+
+`scripts/crt.py` exposes `crt_overlay(w, h, uid)`; every generator appends it
+right before `</svg>` so it is painted last. A 1-in-3 px scanline pattern, a
+radial vignette, a refresh band that drifts down every seven seconds and a
+flicker that never exceeds 3% opacity. Pointer events are off so `<title>`
+tooltips underneath still work. Pass `scan_opacity=0` to tone it down.

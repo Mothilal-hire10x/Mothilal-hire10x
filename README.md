@@ -178,7 +178,58 @@ me = SoftwareEngineer()
 
 <img src="./assets/contrib-heatmap.svg" width="860" alt="Mothilal's GitHub contribution graph — auto-refreshed daily" />
 
+<br><br>
+
+<!-- the same year as a city: one isometric tower per day, height = contributions,
+     builds itself on load (also regenerated daily by the workflow) -->
+
+<h3><code>mothilal@github ~ $ ./skyline.sh --build</code></h3>
+
+<img src="./assets/contrib-skyline.svg" width="860" alt="Mothilal's contribution skyline — one tower per day, auto-refreshed daily" />
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+<!-- community chess: every move is a real issue opened by a visitor; chess/play.py
+     validates it, redraws the board and rewrites everything between the CHESS
+     markers below. The spinning 3D ASCII knight beside the board is the wordmark
+     engine fed the ♘ glyph from a symbol font -- see docs/profile-art.md -->
+
+<h3><code>mothilal@github ~ $ ./chess.sh --play</code></h3>
+
+<sub>a community chess game — anyone can play a move by opening an issue</sub>
+
+</div>
+
+<!--CHESS:START-->
+<div align="center">
+
+<table>
+<tr>
+<td valign="middle"><img src="./assets/knight.svg" width="300" alt="spinning 3D ASCII chess knight"></td>
+<td valign="middle"><img src="https://raw.githubusercontent.com/Mothilal-M/Mothilal-M/main/chess/board.svg?m=1-0" width="420" alt="current board"></td>
+</tr>
+</table>
+
+<sub>game #1 · move 1 · ♙ white to play</sub>
+
+</div>
+
+**play a move** — click one, then just press <em>Submit new issue</em>; the bot does the rest:
+
+**♙** [a3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Ca2a3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Aa3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [a4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Ca2a4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Aa4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [b3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cb2b3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ab3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [b4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cb2b4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ab4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [c3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cc2c3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ac3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [c4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cc2c4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ac4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [d3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cd2d3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ad3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [d4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cd2d4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ad4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [e3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Ce2e3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ae3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [e4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Ce2e4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ae4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [f3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cf2f3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Af3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [f4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cf2f4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Af4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [g3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cg2g3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ag3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [g4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cg2g4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ag4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [h3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Ch2h3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ah3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [h4](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Ch2h4&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2Ah4%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) · **♘** [Na3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cb1a3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2ANa3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [Nc3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cb1c3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2ANc3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [Nf3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cg1f3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2ANf3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29) [Nh3](https://github.com/Mothilal-M/Mothilal-M/issues/new?title=chess%7Cmove%7Cg1h3&body=Just%20press%20%27Submit%20new%20issue%27%20%E2%80%94%20you%20don%27t%20need%20to%20write%20anything.%20The%20bot%20will%20play%20%2A%2ANh3%2A%2A%2C%20update%20the%20board%20on%20my%20profile%2C%20and%20credit%20you.%20%28Please%20don%27t%20edit%20the%20title.%29)
+
+**recent moves**
+
+No moves yet — make the first move in game #1!
+
+<div align="center">
+<sub><a href="chess/games.md">hall of fame</a> · powered by a GitHub Action + python-chess — moves are real issues from real people</sub>
+</div>
+<!--CHESS:END-->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 

@@ -38,11 +38,14 @@ jobs:
       - name: Render animated contribution graph
         run: python scripts/render_heatmap_svg.py
 
+      - name: Render contribution skyline
+        run: python scripts/render_skyline_svg.py
+
       - name: Commit refreshed art
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/contributions.json assets/contrib-heatmap.svg
+          git add data/contributions.json assets/contrib-heatmap.svg assets/contrib-skyline.svg
           if git diff --cached --quiet; then
             echo "nothing changed"
             exit 0

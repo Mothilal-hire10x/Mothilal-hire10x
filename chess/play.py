@@ -34,6 +34,7 @@ PROFILE_URL = f"https://github.com/{OWNER}"
 REPO_URL = f"https://github.com/{OWNER}/{REPO}"
 NEW_ISSUE_URL = f"{REPO_URL}/issues/new"
 RAW_BOARD_URL = f"https://raw.githubusercontent.com/{OWNER}/{REPO}/main/chess/board.svg"
+KNIGHT_URL = "./assets/knight.svg"  # spinning 3D ASCII knight, sits beside the board
 
 CHESS_DIR = Path(__file__).resolve().parent
 STATE_FILE = CHESS_DIR / "state.json"
@@ -207,7 +208,12 @@ def render_readme(state: dict, board: chess.Board, note: str | None = None) -> N
     section = f"""{MARKER_START}
 <div align="center">
 
-<img src="{RAW_BOARD_URL}?m={cache_bust}" width="{BOARD_SIZE}">
+<table>
+<tr>
+<td valign="middle"><img src="{KNIGHT_URL}" width="300" alt="spinning 3D ASCII chess knight"></td>
+<td valign="middle"><img src="{RAW_BOARD_URL}?m={cache_bust}" width="{BOARD_SIZE}" alt="current board"></td>
+</tr>
+</table>
 
 <sub>{status_line(state, board)}</sub>
 {note_html}
